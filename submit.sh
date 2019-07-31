@@ -8,3 +8,4 @@ echo `git add .`
 echo `git commit -m $1`
 echo `git fetch && git rebase` 
 echo `git push origin  $var`
+echo `git fetch && git rebase`
